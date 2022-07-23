@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL]()
-- Live Site URL: [live site URL]()
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/ordersummarycomponent-completed-using-flex-only-1FWSB40PDn)
+- Live Site URL: [live site URL](https://ram0o7.github.io/order-summary-component-main/)
 
 
 ## Author
